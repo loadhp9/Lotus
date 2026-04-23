@@ -1,0 +1,16 @@
+{
+  "short_name": "Lotus Spa",
+  "name": "Thẩm Mỹ Lotus",
+  "icons": [
+    {
+      "src": "images/Logo-Lotus.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/Tham-My-Lotus/",
+  "display": "standalone",
+  "theme_color": "#E890A1",
+  "background_color": "#fffafb"
+}
+
